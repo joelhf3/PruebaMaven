@@ -1,2 +1,2 @@
 # PruebaMaven
-prueba
+Prueba

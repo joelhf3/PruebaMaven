@@ -5,4 +5,4 @@ Prueba
 
 Esto es **Markdow**.
 
-Enlace a la web del [instituto](www.iesdomingoperezminik.es)
+Enlace a la web del [instituto](https://www.iesdomingoperezminik.es)
